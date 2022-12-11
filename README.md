@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @damon46kai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java/Python
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on Java/Python Project
 - 📫 How to reach me 455606913yqh@gmail.com
 
 <!---
