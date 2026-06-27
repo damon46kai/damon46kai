@@ -1,3 +1,4 @@
+## 👋 Hi, I'm Damon Yu
 ### About Me
 Master of Engineering from University of Waterloo
 Ex-Investment Banking Software Engineer with experience in global financial institutions.
